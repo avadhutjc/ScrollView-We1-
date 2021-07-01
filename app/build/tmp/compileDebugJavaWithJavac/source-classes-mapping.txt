@@ -1,0 +1,4 @@
+com/masai/scrollviewwe1/MainActivity.java
+ com.masai.scrollviewwe1.MainActivity
+com/masai/scrollviewwe1/BuildConfig.java
+ com.masai.scrollviewwe1.BuildConfig
